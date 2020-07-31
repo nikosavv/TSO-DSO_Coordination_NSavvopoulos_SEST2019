@@ -15,10 +15,10 @@ Distributed Energy Resources, located in the distribution networks are becoming 
 
 * BidInfo.csv
 
-Ancillary services bid offer including up/down regulation
+  Ancillary services bid offer including up/down regulation
 
 * TimeSeries.csv
 
-Forecast and observation coefficients for load, wind and solar.
+  Forecast and observation coefficients for load, wind and solar.
 
 When publishing results based on this data, please cite N. Savvopoulos, T. Konstantinou and N. Hatziargyriou, "[TSO-DSO Coordination in Decentralized Ancillary Services Markets](https://ieeexplore.ieee.org/document/8849142)," 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 2019, pp. 1-6, doi: 10.1109/SEST.2019.8849142.
