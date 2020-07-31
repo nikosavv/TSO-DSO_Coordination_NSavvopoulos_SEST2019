@@ -1,4 +1,4 @@
-# TSO-DSO_Coordination
+# TSO-DSO Coordination in Decentralized Ancillary Services Markets
 This repository is related to our work on TSO-DSO coordination and contains the input data used in the [TSO-DSO Coordination in Decentralized Ancillary Services Markets](https://ieeexplore.ieee.org/document/8849142).
 More information regarding the formulation of the coordination schemes can be found in the paper.
 
